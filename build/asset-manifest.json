@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/BankWeb/static/css/main.ddbb8985.css",
+    "main.js": "/BankWeb/static/js/main.9c6a6758.js",
+    "static/media/account2.png": "/BankWeb/static/media/account2.63061b97f01528eea0c4.png",
+    "static/media/account1.png": "/BankWeb/static/media/account1.c7044c1c271f72a1eca4.png",
+    "static/media/Bitcoin.png": "/BankWeb/static/media/Bitcoin.834bbae83388c45dd562.png",
+    "static/media/EurosInSafe.png": "/BankWeb/static/media/EurosInSafe.24d1dc43a7b11a28d8f0.png",
+    "static/media/missionImg.png": "/BankWeb/static/media/missionImg.515fdd46f4f3ff8ad799.png",
+    "static/media/testimonials(6).png": "/BankWeb/static/media/testimonials(6).b999972dbc7e1e8d2202.png",
+    "static/media/testimonials(5).png": "/BankWeb/static/media/testimonials(5).95d486f22d6369bd4241.png",
+    "static/media/naira.png": "/BankWeb/static/media/naira.633e650c5111113c561e.png",
+    "static/media/testimonials(3).jpg": "/BankWeb/static/media/testimonials(3).2564a3095e362e872d85.jpg",
+    "static/media/dollars.jpg": "/BankWeb/static/media/dollars.0a26d02d515fd6358f33.jpg",
+    "static/media/testimonials.jpg": "/BankWeb/static/media/testimonials.9ce0a1e377ae0eb59a85.jpg",
+    "static/media/testimonials(1).jpg": "/BankWeb/static/media/testimonials(1).d60507a85b48bc2ae00e.jpg",
+    "static/media/testimonials(2).jpg": "/BankWeb/static/media/testimonials(2).a307a7fc10158d5eb359.jpg",
+    "static/media/headerImg.jpg": "/BankWeb/static/media/headerImg.b7c51261aa65fa5514c4.jpg",
+    "static/media/visionImage.jpg": "/BankWeb/static/media/visionImage.ed6aecba96b3d2ae5414.jpg",
+    "index.html": "/BankWeb/index.html",
+    "main.ddbb8985.css.map": "/BankWeb/static/css/main.ddbb8985.css.map",
+    "main.9c6a6758.js.map": "/BankWeb/static/js/main.9c6a6758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddbb8985.css",
+    "static/js/main.9c6a6758.js"
+  ]
+}
